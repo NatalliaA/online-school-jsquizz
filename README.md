@@ -26,3 +26,8 @@ Online school lesson with a quiz build with jQuery
                                 </li>
                                 <li>Provided external links in the Research section make it convinient for the student to find information for the assignment.</li>
                             </ul>
+<img src="screenshots/schoolscreen1.png" width="350px">
+<img src="screenshots/schoolscreen2.png" width="350px">
+<img src="screenshots/schoolscreen3.png" width="350px">
+<img src="screenshots/schoolscreen4.png" width="350px">
+<img src="screenshots/schoolscreen5.png" width="350px">
