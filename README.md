@@ -1,5 +1,9 @@
 # online-school-jsquiz
 Online school lesson with a quiz build with jQuery
+
+### View Live
+<https://natalliaa.github.io/school/index.html>
+
 <h4>Description</h4>
                             <p>The main purpose of the project was to build a responsive webpage of an online school - Lesson: South America. The webpage displays different sections of the online lsesson (photo gallery, text, quiz, video and research assignment) and demostrates the use of Bootsrap for responsive styling and jQuery for creating the quiz.</p> 
                             <h4>Developing Tools:</h4>
